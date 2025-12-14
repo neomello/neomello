@@ -82,3 +82,4 @@ Para discussões sobre arquitetura de ecossistemas digitais, estratégias de des
 <div align="center">
   <i>"Expandir até o silêncio virar estrutura."</i>
 </div>
+
