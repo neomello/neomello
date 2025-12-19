@@ -118,17 +118,52 @@ class Nucleo coreNode
 ![Troféus](https://github-profile-trophy.vercel.app/?username=neomello&theme=onedark&column=7)
 
 ## Áreas em Desenvolvimento
-	
-  •	Ecossistemas Digitais
-Arquitetura de sistemas descentralizados orientados à evolução contínua e resiliência operacional.
-	•	Inteligência Artificial
-Implementação de agentes cognitivos para automação estratégica, coordenação e suporte à decisão.
-	•	Tokenização
-Estruturação de modelos econômicos digitais baseados em utilidade, incentivos alinhados e sustentabilidade de longo prazo.
-	•	Web3 Marketing
-Engenharia de mecanismos de engajamento para ambientes descentralizados e infraestruturas permissionless.
+	```
+%%{init: {‘theme’:‘dark’, ‘themeVariables’: { ‘primaryColor’:’#1a3a5f’,‘primaryTextColor’:’#fff’,‘primaryBorderColor’:’#4FC3F7’,‘lineColor’:’#4FC3F7’,‘secondaryColor’:’#26C6DA’,‘tertiaryColor’:’#EC407A’,‘noteBkgColor’:’#1a1a1a’,‘noteTextColor’:’#fff’,‘noteBorderColor’:’#9575CD’}}}%%
 
-## Conexão
+flowchart TB
+Start((Início))
+Core((Ecossistema<br/>Digital))
+
+Eco[Ecossistemas Digitais]
+EcoDesc[Arquitetura de sistemas<br/>descentralizados orientados<br/>à evolução contínua e<br/>resiliência operacional]
+
+IA[Inteligência Artificial]
+IADesc[Implementação de agentes<br/>cognitivos para automação<br/>estratégica, coordenação e<br/>suporte à decisão]
+
+Token[Tokenização]
+TokenDesc[Estruturação de modelos<br/>econômicos digitais baseados<br/>em utilidade, incentivos<br/>alinhados e sustentabilidade<br/>de longo prazo]
+
+Web3[Web3 Marketing]
+Web3Desc[Engenharia de mecanismos<br/>de engajamento para ambientes<br/>descentralizados e infraestruturas<br/>permissionless]
+
+Start -.-> Core
+
+Core -.-> Eco
+Core -.-> IA
+Core -.-> Token
+Core -.-> Web3
+
+Eco --> EcoDesc
+IA --> IADesc
+Token --> TokenDesc
+Web3 --> Web3Desc
+
+classDef blueNode fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
+classDef cyanNode fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
+classDef magentaNode fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
+classDef purpleNode fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
+classDef coreNode fill:#0D1F3C,stroke:#4FC3F7,stroke-width:4px,color:#fff,stroke-dasharray: 8 6
+classDef descNode fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#ccc,font-size:12px
+
+class Start blueNode
+class Core coreNode
+class Eco blueNode
+class IA cyanNode
+class Token magentaNode
+class Web3 purpleNode
+class EcoDesc,IADesc,TokenDesc,Web3Desc descNode
+```
 
 Modelos Convencionais
 Abordagem NEØ
