@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/header.png" alt="NEØ MELLØ" width="100%">
+  <img src="assets/header.png" alt="NEØ MELLØ" width="40%">
   
   # NEØ MELLØ
   
-  > Arquiteto de ecossistemas digitais • Estrategista em descentralização • IA & Blockchain
+  > Arquiteto de ecossistemas digitais • Estrategista digital • IA & Blockchain
   
   [![Twitter](https://img.shields.io/badge/-@NeoProtoco77967-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NeoProtoco77967)
   [![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
@@ -12,7 +12,7 @@
 
 ## ⚡ Manifesto
 
-Sou MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização, IA e blockchain. Não sigo tendências, eu as antecipo. Transformei a lógica das agências em ecossistemas vivos que pensam, aprendem e criam valor contínuo.
+MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização, IA e blockchain. Não sigo tendências, eu as antecipo. Transformei a lógica das agências em ecossistemas vivos que pensam, aprendem e criam valor contínuo.
 
 > Onde o mercado vê campanhas, eu vejo sistemas.  
 > Onde buscam audiência, construo lealdade e conexão com nodes em DAOs.
