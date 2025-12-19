@@ -44,38 +44,82 @@ class CognitiveArchitect:
   
 </div>
 
-## 🔮 Visão & Abordagem
+## Princípios de Arquitetura
 
-| Tradicional | NEØ Approach |
-|-------------|--------------|
-| Campanhas | Sistemas Autônomos |
-| Audiência | Nodes em DAOs |
-| Tendências | Antecipação |
-| Marketing | Ecossistemas |
-| Centralização | Auto Custódia |
+1. **Arquitetura orientada a sistemas**  
+   Projetos são concebidos como sistemas interdependentes, não como iniciativas isoladas.
 
+2. **Descentralização como premissa**  
+   Sempre que possível, controle, decisão e valor devem ser distribuídos entre os participantes do sistema.
+
+3. **Auto custódia por padrão**  
+   Usuários mantêm controle sobre ativos, identidades e permissões, evitando dependência de intermediários.
+
+4. **Inteligência incorporada**  
+   Sistemas devem conter mecanismos de aprendizado, adaptação e automação estratégica.
+
+5. **Incentivos alinhados**  
+   Modelos econômicos são desenhados para recompensar comportamentos que fortalecem o ecossistema.
+
+6. **Valor contínuo acima de exposição**  
+   Sustentabilidade e utilidade têm prioridade sobre métricas de curto prazo ou visibilidade artificial.
+
+7. **Interoperabilidade e composição**  
+   Componentes devem ser modulares, integráveis e reutilizáveis em diferentes contextos.
+
+8. **Resiliência operacional**  
+   Falhas são tratadas como eventos esperados. Sistemas devem continuar operando sob degradação parcial.
+
+9. **Transparência verificável**  
+   Processos críticos devem ser auditáveis, rastreáveis e verificáveis por participantes externos.
+
+10. **Evolução incremental**  
+    Mudanças são introduzidas de forma progressiva, preservando compatibilidade e estabilidade do sistema.
 ## 📊 Métricas & Evolução
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=neomello&show_icons=true&theme=radical)
 
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=neomello&theme=dark)
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=neomello)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neomello&layout=compact&theme=radical)
 
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=neomello&theme=react-dark)
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=neomello)
 
 ![Troféus](https://github-profile-trophy.vercel.app/?username=neomello&theme=onedark&column=7)
 
-## 🌱 Projetos em Evolução
+## Áreas em Desenvolvimento
+	
+  •	Ecossistemas Digitais
+Arquitetura de sistemas descentralizados orientados à evolução contínua e resiliência operacional.
+	•	Inteligência Artificial
+Implementação de agentes cognitivos para automação estratégica, coordenação e suporte à decisão.
+	•	Tokenização
+Estruturação de modelos econômicos digitais baseados em utilidade, incentivos alinhados e sustentabilidade de longo prazo.
+	•	Web3 Marketing
+Engenharia de mecanismos de engajamento para ambientes descentralizados e infraestruturas permissionless.
 
-- **Ecossistemas Digitais**: Arquitetura de sistemas descentralizados que evoluem organicamente
-- **Inteligência Artificial**: Desenvolvimento de agentes cognitivos para automação estratégica
-- **Tokenização**: Criação de economias digitais baseadas em valor real e sustentável
-- **Web3 Marketing**: Reengenharia de estratégias de engajamento para ambientes descentralizados
+## Conexão
 
-## 📫 Conexão
+Modelos Convencionais
+Abordagem NEØ
+Campanhas
+Sistemas Autônomos
+Audiência
+Nodes Coordenados
+Tendências
+Análise Antecipada
+Marketing
+Arquitetura de Ecossistemas
+Centralização
+Auto Custódia
 
-Para discussões sobre arquitetura de ecossistemas digitais, estratégias de descentralização ou colaborações em projetos Web3, conecte-se através das redes acima.
+Diretriz Operacional
+
+Projetos são concebidos como sistemas adaptativos.
+O objetivo primário é a continuidade de valor, não a maximização de exposição.
+
+Estruturas são desenhadas para aprender, ajustar incentivos e manter operação consistente ao longo do tempo.
+
 
 ---
 
