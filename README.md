@@ -59,7 +59,7 @@ flowchart TB
     style Mente fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
 
 
-## 🌐 Ecossistemas & Tecnologias
+## Ecossistemas & Tecnologias
 
 <div align="center">
   
