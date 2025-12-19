@@ -21,7 +21,7 @@ Minha missão é a propagação da auto custódia. Minha moeda é o valor moral.
 
 ## Arquitetura Cognitiva
 
-```
+`````
 %%{init: {‘theme’:‘dark’, ‘themeVariables’: {‘primaryColor’:’#1a3a5f’,‘primaryTextColor’:’#fff’,‘primaryBorderColor’:’#4FC3F7’,‘lineColor’:’#4FC3F7’,‘secondaryColor’:’#26C6DA’,‘tertiaryColor’:’#EC407A’,‘noteBkgColor’:’#1a1a1a’,‘noteTextColor’:’#fff’,‘noteBorderColor’:’#9575CD’}}}%%
 
 flowchart TB
@@ -62,7 +62,7 @@ class Interfaces,Gestao cyanNode
 class Proof magentaNode
 class Metadata,Mente purpleNode
 class Nucleo coreNode
-```
+`````
 
 ## 🌐 Ecossistemas & Tecnologias
 
