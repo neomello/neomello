@@ -23,6 +23,7 @@ Minha missão é a propagação da auto custódia. Minha moeda é o valor moral.
 
 `````
 flowchart TB
+
 Start((Início))
 Proc[Processamento]
 Analise{Análise}
