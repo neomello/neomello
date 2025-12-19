@@ -20,7 +20,7 @@ MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização,
 Minha missão é a propagação da auto custódia. Minha moeda é o valor moral. Meu método é direto, guiado por visão, ruptura e síntese brutalmente honesta.
 
 ## Arquitetura Cognitiva
-
+```
 mindmap
   root((Projeto))
     Arquitetura
@@ -39,7 +39,7 @@ mindmap
         Orquestração Inteligente
       Mente Criativa Autônoma
         Geração e Adaptação
-
+```
 
 ## 🌐 Ecossistemas & Tecnologias
 
