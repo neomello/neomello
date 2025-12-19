@@ -19,19 +19,27 @@ MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização,
 
 Minha missão é a propagação da auto custódia. Minha moeda é o valor moral. Meu método é direto, guiado por visão, ruptura e síntese brutalmente honesta.
 
-## 🧠 Arquitetura Cognitiva
+## Arquitetura Cognitiva
 
-```python
-class CognitiveArchitect:
-    def __init__(self):
-        self.vision = "Expandir até o silêncio virar estrutura"
-        self.approach = ["Sistemas", "Descentralização", "Valor Contínuo"]
-        
-    def transform(self, traditional_model):
-        ecosystem = self._decentralize(traditional_model)
-        ecosystem = self._add_intelligence(ecosystem)
-        return self._create_value_network(ecosystem)
-```
+mindmap
+  root((Projeto))
+    Arquitetura
+      X[Início]
+        M[Processamento]
+          K[Análise]
+            N[Núcleo Neural]
+    Componentes
+      Metadata de Nodes
+        Cache e Estrutura
+      Interfaces Experimentais
+        UI/UX Inovadora
+      Proof of Intent
+        Validação e Consenso
+      Gestão de MCP/ASI
+        Orquestração Inteligente
+      Mente Criativa Autônoma
+        Geração e Adaptação
+
 
 ## 🌐 Ecossistemas & Tecnologias
 
