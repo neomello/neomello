@@ -20,25 +20,46 @@ MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização,
 Minha missão é a propagação da auto custódia. Minha moeda é o valor moral. Meu método é direto, guiado por visão, ruptura e síntese brutalmente honesta.
 
 ## Arquitetura Cognitiva
+%%{init: {‘theme’:‘dark’, ‘themeVariables’: { ‘primaryColor’:’#1a3a5f’,‘primaryTextColor’:’#fff’,‘primaryBorderColor’:’#4FC3F7’,‘lineColor’:’#4FC3F7’,‘secondaryColor’:’#26C6DA’,‘tertiaryColor’:’#EC407A’,‘noteBkgColor’:’#1a1a1a’,‘noteTextColor’:’#fff’,‘noteBorderColor’:’#9575CD’}}}%%
+
+flowchart TB
+Start((Início))
+Proc[Processamento]
+Analise{Análise}
+Nucleo((Núcleo Neural))
+Metadata[/Metadata de Nodes/]
+Interfaces[/Interfaces Experimentais/]
+Proof[/Proof of Intent/]
+Gestao[Gestão de MCP / ASI]
+Mente((Mente Criativa Autônoma))
+
 ```
-mindmap
-  root((Projeto))
-    Arquitetura
-      X[Início]
-        M[Processamento]
-          K[Análise]
-            N[Núcleo Neural]
-    Componentes
-      Metadata de Nodes
-        Cache e Estrutura
-      Interfaces Experimentais
-        UI/UX Inovadora
-      Proof of Intent
-        Validação e Consenso
-      Gestão de MCP/ASI
-        Orquestração Inteligente
-      Mente Criativa Autônoma
-        Geração e Adaptação
+Start -.-> Proc
+Proc --> Analise
+Analise -.-> Nucleo
+
+Nucleo -.-> Metadata
+Nucleo -.-> Interfaces
+Nucleo -.-> Proof
+
+Metadata -.-> Gestao
+Interfaces -.-> Gestao
+Proof -.-> Gestao
+
+Gestao -.-> Mente
+Proof -.-> Mente
+
+classDef blueNode fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
+classDef cyanNode fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
+classDef magentaNode fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
+classDef purpleNode fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
+classDef coreNode fill:#0D1F3C,stroke:#4FC3F7,stroke-width:4px,color:#fff,stroke-dasharray: 8 6
+
+class Start,Proc,Analise blueNode
+class Interfaces,Gestao cyanNode
+class Proof magentaNode
+class Metadata,Mente purpleNode
+class Nucleo coreNode
 ```
 
 ## 🌐 Ecossistemas & Tecnologias
