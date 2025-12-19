@@ -19,48 +19,45 @@ MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização,
 
 Minha missão é a propagação da auto custódia. Minha moeda é o valor moral. Meu método é direto, guiado por visão, ruptura e síntese brutalmente honesta.
 
-## Arquitetura Cognitiva
+# Arquitetura Cognitiva
 
-`````
+```mermaid
 flowchart TB
+    Start((Início))
+    Proc[Processamento]
+    Analise{Análise}
+    Nucleo((Núcleo Neural))
+    Metadata[/Metadata de Nodes/]
+    Interfaces[/Interfaces Experimentais/]
+    Proof[/Proof of Intent/]
+    Gestao[Gestão de MCP / ASI]
+    Mente((Mente Criativa Autônoma))
+    
+    Start -.-> Proc
+    Proc --> Analise
+    Analise -.-> Nucleo
+    
+    Nucleo -.-> Metadata
+    Nucleo -.-> Interfaces
+    Nucleo -.-> Proof
+    
+    Metadata -.-> Gestao
+    Interfaces -.-> Gestao
+    Proof -.-> Gestao
+    
+    Gestao -.-> Mente
+    Proof -.-> Mente
+    
+    style Start fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
+    style Proc fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
+    style Analise fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
+    style Nucleo fill:#0D1F3C,stroke:#4FC3F7,stroke-width:4px,color:#fff
+    style Metadata fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
+    style Interfaces fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
+    style Proof fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
+    style Gestao fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
+    style Mente fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
 
-Start((Início))
-Proc[Processamento]
-Analise{Análise}
-Nucleo((Núcleo Neural))
-Metadata[/Metadata de Nodes/]
-Interfaces[/Interfaces Experimentais/]
-Proof[/Proof of Intent/]
-Gestao[Gestão de MCP / ASI]
-Mente((Mente Criativa Autônoma))
-
-Start -.-> Proc
-Proc --> Analise
-Analise -.-> Nucleo
-
-Nucleo -.-> Metadata
-Nucleo -.-> Interfaces
-Nucleo -.-> Proof
-
-Metadata -.-> Gestao
-Interfaces -.-> Gestao
-Proof -.-> Gestao
-
-Gestao -.-> Mente
-Proof -.-> Mente
-
-classDef blueNode fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
-classDef cyanNode fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
-classDef magentaNode fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
-classDef purpleNode fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
-classDef coreNode fill:#0D1F3C,stroke:#4FC3F7,stroke-width:4px,color:#fff,stroke-dasharray: 8 6
-
-class Start,Proc,Analise blueNode
-class Interfaces,Gestao cyanNode
-class Proof magentaNode
-class Metadata,Mente purpleNode
-class Nucleo coreNode
-`````
 
 ## 🌐 Ecossistemas & Tecnologias
 
