@@ -21,7 +21,7 @@ Minha missão é a propagação da auto custódia. Minha moeda é o valor moral.
 
 # Arquitetura Cognitiva
 
-```mermaid
+`````mermaid
 flowchart TB
     Start((Início))
     Proc[Processamento]
@@ -57,7 +57,7 @@ flowchart TB
     style Proof fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
     style Gestao fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
     style Mente fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
-
+`````
 
 ## Ecossistemas & Tecnologias
 
