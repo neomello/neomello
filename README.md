@@ -35,7 +35,6 @@ Proof[/Proof of Intent/]
 Gestao[Gestão de MCP / ASI]
 Mente((Mente Criativa Autônoma))
 
-```
 Start -.-> Proc
 Proc --> Analise
 Analise -.-> Nucleo
