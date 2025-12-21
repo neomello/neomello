@@ -1,23 +1,20 @@
 <div align="center">
-  <img src="assets/header.png" alt="NEØ MELLØ" width="40%">
   
   # NEØ MELLØ
+Arquitetura de sistemas digitais · DevOps & automação · Marketing como infraestrutura · IA & Blockchain
   
-  > Arquiteto de ecossistemas digitais • Estrategista digital • IA & Blockchain
-  
-  [![Twitter](https://img.shields.io/badge/-@NeoProtoco77967-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NeoProtoco77967)
-  [![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
-  [![ENS Domain](https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/)
 </div>
 
-## ⚡ Manifesto
+## Operational Scope · How I Work
 
-MELLØ, arquiteto de ecossistemas digitais e estrategista em descentralização, IA e blockchain. Não sigo tendências, eu as antecipo. Transformei a lógica das agências em ecossistemas vivos que pensam, aprendem e criam valor contínuo.
+| **Operational Scope** | **How I Work** |
+|-----------------------|----------------|
+| Arquitetura de sistemas digitais em produção | Systems first, features later |
+| Coordenação de times multidisciplinares (engenharia, produto, growth) | Documentation as infrastructure |
+| Infraestrutura para ecossistemas descentralizados | Small teams, high leverage |
+| Automação estratégica e agentes cognitivos | Autonomy over micromanagement |
+| Governança técnica e econômica de plataformas | Long-term value over short-term metrics |
 
-> Onde o mercado vê campanhas, eu vejo sistemas.  
-> Onde buscam audiência, construo lealdade e conexão com nodes em DAOs.
-
-Minha missão é a propagação da auto custódia. Minha moeda é o valor moral. Meu método é direto, guiado por visão, ruptura e síntese brutalmente honesta.
 
 # Arquitetura Cognitiva
 
@@ -48,79 +45,46 @@ flowchart TB
     Gestao -.-> Mente
     Proof -.-> Mente
     
-    style Start fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
-    style Proc fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
-    style Analise fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
-    style Nucleo fill:#0D1F3C,stroke:#4FC3F7,stroke-width:4px,color:#fff
-    style Metadata fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
-    style Interfaces fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
-    style Proof fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
-    style Gestao fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
-    style Mente fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
+    %% Monocromia NEØ
+    style Start fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    style Proc fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    style Analise fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    
+    %% Núcleo com peso maior
+    style Nucleo fill:#640429,stroke:#640429,stroke-width:4px,color:#fff
+    
+    %% Camadas funcionais
+    style Metadata fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    style Interfaces fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    style Proof fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    style Gestao fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    
+    %% Saída cognitiva
+    style Mente fill:#640429,stroke:#640429,stroke-width:3px,color:#fff
 `````
 
 ## Ecossistemas & Tecnologias
 
 <div align="center">
-  
-  ![Web3](https://img.shields.io/badge/-Web3-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-  ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
-  ![IA](https://img.shields.io/badge/-Inteligência_Artificial-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Descentralização](https://img.shields.io/badge/-Descentralização-2D3748?style=for-the-badge&logo=ipfs&logoColor=white)
-  
+
+  ![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-640429?style=for-the-badge)
+  ![DevOps & Automation](https://img.shields.io/badge/DevOps%20%26%20Automation-640429?style=for-the-badge)
+  ![AI Systems](https://img.shields.io/badge/AI%20Systems-640429?style=for-the-badge)
+  ![Blockchain Infrastructure](https://img.shields.io/badge/Blockchain%20Infrastructure-640429?style=for-the-badge&logo=ethereum&logoColor=white)
+  ![Web3 Infrastructure](https://img.shields.io/badge/Web3%20Infrastructure-640429?style=for-the-badge&logo=ethereum&logoColor=white)
+
 </div>
 
-## Princípios de Arquitetura
 
-1. **Arquitetura orientada a sistemas**  
-   Projetos são concebidos como sistemas interdependentes, não como iniciativas isoladas.
 
-2. **Descentralização como premissa**  
-   Sempre que possível, controle, decisão e valor devem ser distribuídos entre os participantes do sistema.
 
-3. **Auto custódia por padrão**  
-   Usuários mantêm controle sobre ativos, identidades e permissões, evitando dependência de intermediários.
-
-4. **Inteligência incorporada**  
-   Sistemas devem conter mecanismos de aprendizado, adaptação e automação estratégica.
-
-5. **Incentivos alinhados**  
-   Modelos econômicos são desenhados para recompensar comportamentos que fortalecem o ecossistema.
-
-6. **Valor contínuo acima de exposição**  
-   Sustentabilidade e utilidade têm prioridade sobre métricas de curto prazo ou visibilidade artificial.
-
-7. **Interoperabilidade e composição**  
-   Componentes devem ser modulares, integráveis e reutilizáveis em diferentes contextos.
-
-8. **Resiliência operacional**  
-   Falhas são tratadas como eventos esperados. Sistemas devem continuar operando sob degradação parcial.
-
-9. **Transparência verificável**  
-   Processos críticos devem ser auditáveis, rastreáveis e verificáveis por participantes externos.
-
-10. **Evolução incremental**  
-    Mudanças são introduzidas de forma progressiva, preservando compatibilidade e estabilidade do sistema.
-## 📊 Métricas & Evolução
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=neomello&show_icons=true&theme=radical)
-
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=neomello)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neomello&layout=compact&theme=radical)
-
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=neomello)
-
-![Troféus](https://github-profile-trophy.vercel.app/?username=neomello&theme=onedark&column=7)
 
 # Áreas em Desenvolvimento
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1a3a5f','primaryTextColor':'#fff','primaryBorderColor':'#4FC3F7','lineColor':'#4FC3F7','secondaryColor':'#26C6DA','tertiaryColor':'#EC407A','noteBkgColor':'#1a1a1a','noteTextColor':'#fff','noteBorderColor':'#9575CD'}}}%%
-
+`````mermaid
 flowchart TB
-    Start((Início))
-    Core((Ecossistema<br/>Digital))
+    Start((Ø))
+    Core((Infraestrutura<br/>Cognitiva))
     
     Eco[Ecossistemas Digitais]
     EcoDesc[Arquitetura de sistemas<br/>descentralizados orientados<br/>à evolução contínua e<br/>resiliência operacional]
@@ -145,47 +109,76 @@ flowchart TB
     IA --> IADesc
     Token --> TokenDesc
     Web3 --> Web3Desc
+
+    %% Monocromia NEØ
+    style Start fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
+    style Core fill:#640429,stroke:#640429,stroke-width:4px,color:#fff
     
-    classDef blueNode fill:#1E3A5F,stroke:#4FC3F7,stroke-width:3px,color:#fff
-    classDef cyanNode fill:#0D3B4D,stroke:#26C6DA,stroke-width:3px,color:#fff
-    classDef magentaNode fill:#4D1E3A,stroke:#EC407A,stroke-width:3px,color:#fff
-    classDef purpleNode fill:#2D1E4D,stroke:#9575CD,stroke-width:3px,color:#fff
-    classDef coreNode fill:#0D1F3C,stroke:#4FC3F7,stroke-width:4px,color:#fff,stroke-dasharray: 8 6
-    classDef descNode fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#ccc,font-size:12px
+    style Eco fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
+    style IA fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
+    style Token fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
+    style Web3 fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
     
-    class Start blueNode
-    class Core coreNode
-    class Eco blueNode
-    class IA cyanNode
-    class Token magentaNode
-    class Web3 purpleNode
-    class EcoDesc,IADesc,TokenDesc,Web3Desc descNode
+    %% Descrições com menor peso visual
+    style EcoDesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
+    style IADesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
+    style TokenDesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
+    style Web3Desc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
 `````
 
-Modelos Convencionais
-Abordagem NEØ
-Campanhas
-Sistemas Autônomos
-Audiência
-Nodes Coordenados
-Tendências
-Análise Antecipada
-Marketing
-Arquitetura de Ecossistemas
-Centralização
-Auto Custódia
 
-Diretriz Operacional
+neo@mello ~ % cat DIRETRIZ_OPERACIONAL.neo
 
-Projetos são concebidos como sistemas adaptativos.
-O objetivo primário é a continuidade de valor, não a maximização de exposição.
+```js
+// runtime: NEØ
+// mode: operational
 
-Estruturas são desenhadas para aprender, ajustar incentivos e manter operação consistente ao longo do tempo.
+const system = {
+  type: "adaptive",
+  ownership: "self-custody",
+  architecture: "decentralized",
+  behavior: "learn → adjust → persist"
+};
+
+if (system.detects("exposure_over_value")) {
+  system.reject("campaign_logic");
+}
+
+system.execute({
+  objective: "continuous value",
+  priority: "resilience",
+  strategy: "infrastructure > narrative"
+});
+
+console.log("Not an agency.");
+console.log("A system.");
+```
+
+## Perfil Cognitivo
+
+INTJ-A — Arquiteto / Estrategista  
+Eneagrama Tipo 5 — Investigador  
+Arquétipo: Magus — arquiteto do invisível  
+Temperamento dominante: Colérico-Racional
+
+## Access
+
+For system-level collaboration or strategic architecture:
+neo@neoprotocol.space 
 
 
 ---
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=neomello&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neomello&layout=compact&theme=radical)
+
 
 <div align="center">
   <i>"Expandir até o silêncio virar estrutura."</i>
 </div>
 
+<div>
+  [![Twitter](https://img.shields.io/badge/-@node_mello-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/node_mello)
+  [![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
+  [![ENS Domain](https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/)
+  </div>
