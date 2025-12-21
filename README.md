@@ -117,18 +117,16 @@ flowchart TB
 
 ## Cognitive Profile
 
-INTJ-A — Architect / Strategist
-Enneagram Type 5 — Investigator
-Archetype: Magus — architect of the invisible
-Dominant temperament: Choleric–Rational
+> INTJ-A — Architect / Strategist; <
+> Enneagram Type 5 — Investigator; <
+> Archetype: Magus — architect of the invisible; <
+> Dominant temperament: Choleric–Rational. <
 
 </div>
 
 <div align="center">
 
 ## Contact
-
-For system-level collaboration or strategic architecture:
 [neo@neoprotocol.space](mailto:neo@neoprotocol.space)
 
 </div>
@@ -144,7 +142,9 @@ For system-level collaboration or strategic architecture:
     <img src="https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   </a>
 </div>
-
+<div align="center">
+    
+```bash
 C:\NEO> run ascii-node.exe
 
 > _ rendering . . .
@@ -158,6 +158,8 @@ C:\NEO> run ascii-node.exe
 
 NEØ PROTOCOL // NODE [MELLØ]
 
+</div>
+```
 
 <div align="center">
   <i>"Expand until silence becomes structure."</i>
