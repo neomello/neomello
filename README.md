@@ -127,33 +127,6 @@ flowchart TB
 `````
 
 
-neo@mello ~ % cat DIRETRIZ_OPERACIONAL.neo
-
-```js
-// runtime: NEØ
-// mode: operational
-
-const system = {
-  type: "adaptive",
-  ownership: "self-custody",
-  architecture: "decentralized",
-  behavior: "learn → adjust → persist"
-};
-
-if (system.detects("exposure_over_value")) {
-  system.reject("campaign_logic");
-}
-
-system.execute({
-  objective: "continuous value",
-  priority: "resilience",
-  strategy: "infrastructure > narrative"
-});
-
-console.log("Not an agency.");
-console.log("A system.");
-```
-
 ## Perfil Cognitivo
 
 INTJ-A — Arquiteto / Estrategista  
@@ -168,17 +141,22 @@ neo@neoprotocol.space
 
 
 ---
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=neomello&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neomello&layout=compact&theme=radical)
 
 
 <div align="center">
-  <i>"Expandir até o silêncio virar estrutura."</i>
+  <a href="https://x.com/node_mello">
+    <img src="https://img.shields.io/badge/-@node_mello-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/neoprotocol.eth/">
+    <img src="https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://etherscan.io/">
+    <img src="https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  </a>
 </div>
 
-<div>
-  [![Twitter](https://img.shields.io/badge/-@node_mello-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/node_mello)
-  [![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
-  [![ENS Domain](https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/)
-  </div>
+
+  
+<div align="center">
+  <i>"Expandir até o silêncio virar estrutura."</i>
+</div>
