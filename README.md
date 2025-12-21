@@ -1,34 +1,45 @@
 <div align="center">
-  
-  # NEØ MELLØ
-Arquitetura de sistemas digitais · DevOps & automação · Marketing como infraestrutura · IA & Blockchain
-  
+
+# NEØ MELLØ  
+Digital systems architecture · DevOps & automation · Marketing as infrastructure · AI & Blockchain
+
 </div>
+
+<div align="center">
 
 ## Operational Scope · How I Work
 
+</div>
+
+<div align="center">
+
 | **Operational Scope** | **How I Work** |
 |-----------------------|----------------|
-| Arquitetura de sistemas digitais em produção | Systems first, features later |
-| Coordenação de times multidisciplinares (engenharia, produto, growth) | Documentation as infrastructure |
-| Infraestrutura para ecossistemas descentralizados | Small teams, high leverage |
-| Automação estratégica e agentes cognitivos | Autonomy over micromanagement |
-| Governança técnica e econômica de plataformas | Long-term value over short-term metrics |
+| Production-grade digital systems architecture | Systems before features |
+| Coordination of multidisciplinary teams (engineering, product, growth) | Documentation as infrastructure |
+| Infrastructure for decentralized ecosystems | Small teams, high leverage |
+| Strategic automation and cognitive agents | Autonomy over micromanagement |
+| Technical and economic governance of platforms | Long-term value over short-term metrics |
 
+</div>
 
-# Arquitetura Cognitiva
+<div align="center">
 
-`````mermaid
+# Cognitive Architecture
+
+</div>
+
+```mermaid
 flowchart TB
-    Start((Início))
-    Proc[Processamento]
-    Analise{Análise}
-    Nucleo((Núcleo Neural))
-    Metadata[/Metadata de Nodes/]
-    Interfaces[/Interfaces Experimentais/]
+    Start((Start))
+    Proc[Processing]
+    Analise{Analysis}
+    Nucleo((Neural Core))
+    Metadata[/Node Metadata/]
+    Interfaces[/Experimental Interfaces/]
     Proof[/Proof of Intent/]
-    Gestao[Gestão de MCP / ASI]
-    Mente((Mente Criativa Autônoma))
+    Gestao[MCP / ASI Management]
+    Mente((Autonomous Creative Mind))
     
     Start -.-> Proc
     Proc --> Analise
@@ -45,58 +56,55 @@ flowchart TB
     Gestao -.-> Mente
     Proof -.-> Mente
     
-    %% Monocromia NEØ
-    style Start fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    style Proc fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    style Analise fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    
-    %% Núcleo com peso maior
-    style Nucleo fill:#640429,stroke:#640429,stroke-width:4px,color:#fff
-    
-    %% Camadas funcionais
-    style Metadata fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    style Interfaces fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    style Proof fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    style Gestao fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    
-    %% Saída cognitiva
-    style Mente fill:#640429,stroke:#640429,stroke-width:3px,color:#fff
-`````
-
-## Ecossistemas & Tecnologias
+    style Start fill:#1b64f1,stroke:#1b64f1,stroke-width:2px,color:#fff
+    style Proc fill:#1b64f1,stroke:#1b64f1,stroke-width:2px,color:#fff
+    style Analise fill:#1b64f1,stroke:#1b64f1,stroke-width:2px,color:#fff
+    style Nucleo fill:#1b64f1,stroke:#1b64f1,stroke-width:4px,color:#fff
+    style Metadata fill:#0820fc,stroke:#1b64f1,stroke-width:2px,color:#fff
+    style Interfaces fill:#0820fc,stroke:#1b64f1,stroke-width:2px,color:#fff
+    style Proof fill:#0820fc,stroke:#1b64f1,stroke-width:1px,color:#fff
+    style Gestao fill:#0a19a2,stroke:#1b64f1,stroke-width:1px,color:#fff
+    style Mente fill:#0a19a2,stroke:#1b64f1,stroke-width:1px,color:#fff
+````
 
 <div align="center">
 
-  ![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-640429?style=for-the-badge)
-  ![DevOps & Automation](https://img.shields.io/badge/DevOps%20%26%20Automation-640429?style=for-the-badge)
-  ![AI Systems](https://img.shields.io/badge/AI%20Systems-640429?style=for-the-badge)
-  ![Blockchain Infrastructure](https://img.shields.io/badge/Blockchain%20Infrastructure-640429?style=for-the-badge&logo=ethereum&logoColor=white)
-  ![Web3 Infrastructure](https://img.shields.io/badge/Web3%20Infrastructure-640429?style=for-the-badge&logo=ethereum&logoColor=white)
+## Ecosystems & Technologies
 
 </div>
 
+<div align="center">
 
+![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-0820fc?style=for-the-badge)
+![DevOps & Automation](https://img.shields.io/badge/DevOps%20%26%20Automation-0820fc?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-1b64f1?style=for-the-badge)
+![Blockchain Infrastructure](https://img.shields.io/badge/Blockchain%20Infrastructure-0820fc?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Web3 Infrastructure](https://img.shields.io/badge/Web3%20Infrastructure-0a19a2?style=for-the-badge\&logo=ethereum\&logoColor=white)
 
+</div>
 
+<div align="center">
 
-# Áreas em Desenvolvimento
+# Areas Under Development
 
-`````mermaid
+</div>
+
+```mermaid
 flowchart TB
     Start((Ø))
-    Core((Infraestrutura<br/>Cognitiva))
+    Core((Cognitive<br/>Infrastructure))
     
-    Eco[Ecossistemas Digitais]
-    EcoDesc[Arquitetura de sistemas<br/>descentralizados orientados<br/>à evolução contínua e<br/>resiliência operacional]
+    Eco[Digital Ecosystems]
+    EcoDesc[Architecture of decentralized systems<br/>oriented toward continuous evolution<br/>and operational resilience]
     
-    IA[Inteligência Artificial]
-    IADesc[Implementação de agentes<br/>cognitivos para automação<br/>estratégica, coordenação e<br/>suporte à decisão]
+    IA[Artificial Intelligence]
+    IADesc[Implementation of cognitive agents<br/>for strategic automation,<br/>coordination and decision support]
     
-    Token[Tokenização]
-    TokenDesc[Estruturação de modelos<br/>econômicos digitais baseados<br/>em utilidade, incentivos<br/>alinhados e sustentabilidade<br/>de longo prazo]
+    Token[Tokenization]
+    TokenDesc[Design of digital economic models<br/>based on utility, aligned incentives<br/>and long-term sustainability]
     
     Web3[Web3 Marketing]
-    Web3Desc[Engenharia de mecanismos<br/>de engajamento para ambientes<br/>descentralizados e infraestruturas<br/>permissionless]
+    Web3Desc[Engineering of engagement mechanisms<br/>for decentralized environments<br/>and permissionless infrastructures]
     
     Start -.-> Core
     
@@ -110,38 +118,37 @@ flowchart TB
     Token --> TokenDesc
     Web3 --> Web3Desc
 
-    %% Monocromia NEØ
     style Start fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
     style Core fill:#640429,stroke:#640429,stroke-width:4px,color:#fff
-    
     style Eco fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
     style IA fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
     style Token fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
     style Web3 fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
-    
-    %% Descrições com menor peso visual
     style EcoDesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
     style IADesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
     style TokenDesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
     style Web3Desc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
-`````
+```
 
+<div align="center">
 
-## Perfil Cognitivo
+## Cognitive Profile
 
-INTJ-A — Arquiteto / Estrategista  
-Eneagrama Tipo 5 — Investigador  
-Arquétipo: Magus — arquiteto do invisível  
-Temperamento dominante: Colérico-Racional
+INTJ-A — Architect / Strategist
+Enneagram Type 5 — Investigator
+Archetype: Magus — architect of the invisible
+Dominant temperament: Choleric–Rational
 
-## Access
+</div>
+
+<div align="center">
+
+## Contact
 
 For system-level collaboration or strategic architecture:
-neo@neoprotocol.space 
+[neo@neoprotocol.space](mailto:neo@neoprotocol.space)
 
-
----
-
+</div>
 
 <div align="center">
   <a href="https://x.com/node_mello">
@@ -155,8 +162,6 @@ neo@neoprotocol.space
   </a>
 </div>
 
-
-  
 <div align="center">
-  <i>"Expandir até o silêncio virar estrutura."</i>
+  <i>"Expand until silence becomes structure."</i>
 </div>
