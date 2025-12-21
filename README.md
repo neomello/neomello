@@ -30,41 +30,24 @@ Digital systems architecture · DevOps & automation · Marketing as infrastructu
 </div>
 
 ```mermaid
-flowchart TB
-    Start((Start))
-    Proc[Processing]
-    Analise{Analysis}
-    Nucleo((Neural Core))
-    Metadata[/Node Metadata/]
-    Interfaces[/Experimental Interfaces/]
-    Proof[/Proof of Intent/]
-    Gestao[MCP / ASI Management]
-    Mente((Autonomous Creative Mind))
-    
-    Start -.-> Proc
-    Proc --> Analise
-    Analise -.-> Nucleo
-    
-    Nucleo -.-> Metadata
-    Nucleo -.-> Interfaces
-    Nucleo -.-> Proof
-    
-    Metadata -.-> Gestao
-    Interfaces -.-> Gestao
-    Proof -.-> Gestao
-    
-    Gestao -.-> Mente
-    Proof -.-> Mente
-    
-    style Start fill:#1b64f1,stroke:#1b64f1,stroke-width:2px,color:#fff
-    style Proc fill:#1b64f1,stroke:#1b64f1,stroke-width:2px,color:#fff
-    style Analise fill:#1b64f1,stroke:#1b64f1,stroke-width:2px,color:#fff
-    style Nucleo fill:#1b64f1,stroke:#1b64f1,stroke-width:4px,color:#fff
-    style Metadata fill:#0820fc,stroke:#1b64f1,stroke-width:2px,color:#fff
-    style Interfaces fill:#0820fc,stroke:#1b64f1,stroke-width:2px,color:#fff
-    style Proof fill:#0820fc,stroke:#1b64f1,stroke-width:1px,color:#fff
-    style Gestao fill:#0a19a2,stroke:#1b64f1,stroke-width:1px,color:#fff
-    style Mente fill:#0a19a2,stroke:#1b64f1,stroke-width:1px,color:#fff
+graph LR
+
+Intent[> Proof of Intent]
+Context[/Context Awareness/]
+Input[✦ Raw Input]
+
+Core((MELLØ Core Engine))
+Memory[/Adaptive Memory/]
+Interfaces[/Live Interfaces/]
+Mind(( NEØ Engine))
+Output[/Value Output/]
+
+Intent --> Core
+Context --> Core
+Input --> Core
+Core --> Interfaces --> Core
+Core --> Mind --> Output
+Mind --> Memory --> Core
 ````
 
 <div align="center">
@@ -161,6 +144,20 @@ For system-level collaboration or strategic architecture:
     <img src="https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   </a>
 </div>
+
+C:\NEO> run ascii-node.exe
+
+> _ rendering . . .
+> 
+ 
+ \████▀▀▀████
+ ██   Ø   Ø ██
+██           ██
+██   ───   ██
+  ██████████
+
+NEØ PROTOCOL // NODE [MELLØ]
+
 
 <div align="center">
   <i>"Expand until silence becomes structure."</i>
