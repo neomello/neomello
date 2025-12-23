@@ -93,49 +93,67 @@ flowchart TB
 
 <div align="center">
 
-# Areas Under Development
+#  MVP FLUX
 
 </div>
 
 ```mermaid
-flowchart TB
-    Start((Ø))
-    Core((Cognitive<br/>Infrastructure))
-    
-    Eco[Digital Ecosystems]
-    EcoDesc[Architecture of decentralized systems<br/>oriented toward continuous evolution<br/>and operational resilience]
-    
-    IA[Artificial Intelligence]
-    IADesc[Implementation of cognitive agents<br/>for strategic automation,<br/>coordination and decision support]
-    
-    Token[Tokenization]
-    TokenDesc[Design of digital economic models<br/>based on utility, aligned incentives<br/>and long-term sustainability]
-    
-    Web3[Web3 Marketing]
-    Web3Desc[Engineering of engagement mechanisms<br/>for decentralized environments<br/>and permissionless infrastructures]
-    
-    Start -.-> Core
-    
-    Core -.-> Eco
-    Core -.-> IA
-    Core -.-> Token
-    Core -.-> Web3
-    
-    Eco --> EcoDesc
-    IA --> IADesc
-    Token --> TokenDesc
-    Web3 --> Web3Desc
+flowchart TD
+A[Landing Page<br/>Concept & Call-to-Action] --> B[Start Exploration]
+B --> C{Select Dimension}
 
-    style Start fill:#640429,stroke:#640429,stroke-width:2px,color:#fff
-    style Core fill:#640429,stroke:#640429,stroke-width:4px,color:#fff
-    style Eco fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
-    style IA fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
-    style Token fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
-    style Web3 fill:#42081e,stroke:#640429,stroke-width:2px,color:#fff
-    style EcoDesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
-    style IADesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
-    style TokenDesc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
-    style Web3Desc fill:#300515,stroke:#640429,stroke-width:1px,color:#fff
+C --> D1[ ◱ Problem-Solving]
+C --> D2[ ◲ Connection & Collaboration]
+C --> D3[ ◳ Creation & Generation]
+
+subgraph "Dimension Process"
+    D1 --> E1[Narrative Prompt<br/>Describe your internal process]
+    D2 --> E2[Narrative Prompt<br/>Describe your team role]
+    D3 --> E3[Narrative Prompt<br/>Capture your creative spark]
+
+    E1 --> F[Real-time Analysis]
+    E2 --> F
+    E3 --> F
+
+    F --> G[Output: Your Pattern]
+    G --> H1[⧖  Narrative Insight]
+    G --> H2[⧗ Individual Mermaid Map]
+end
+
+H1 --> I{Want to integrate?}
+H2 --> I
+
+I -->|Yes, see the big picture| J[Multi-Dimensional Synthesis]
+I -->|No, keep exploring| C
+
+J --> K[**Your Ecosystem Map**]
+K --> L[ ⟠ Integrated Profile + Complete Map]
+K --> M[ ⨀ Strategic Insights]
+
+L --> N[Share?<br/>image/text]
+M --> N
+
+N --> O[Dive deeper?<br/>Save profile?]
+
+%% Classes
+classDef root fill:#0a0a0a,stroke:#38bdf8,stroke-width:2px,color:#fff
+classDef spine fill:#1a1a1a,stroke:#60a5fa,stroke-width:2px,color:#e5e7eb
+classDef core fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#fff,stroke-dasharray:5
+classDef gray fill:#18181b,stroke:#71717a,stroke-width:1px,color:#a1a1aa
+classDef blue fill:#0c4a6e,stroke:#38bdf8,stroke-width:1px,color:#bae6fd
+classDef pink fill:#500724,stroke:#ec4899,stroke-width:1px,color:#fbcfe8
+
+%% Apply classes to nodes
+class A root
+class B,C spine
+class D1,D2,D3,E1,E2,E3,F,G,H1,H2,I,J,K,L,M,N,O core
+%% Note: You may want to apply specific color classes to certain nodes based on your design.
+%% For example: class D1,D2,D3 blue or class H1,H2 pink depending on your color scheme.
+
+%% Link styling
+linkStyle 0,1,2 stroke:#38bdf8,stroke-width:3px
+linkStyle 3,4,5,6,7 stroke:#60a5fa,stroke-width:1px,stroke-dasharray:3
+linkStyle 8,9,10 stroke:#a855f7,stroke-width:1.5px
 ```
 
 <div align="center">
