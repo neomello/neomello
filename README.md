@@ -30,24 +30,49 @@ Digital systems architecture · DevOps & automation · Marketing as infrastructu
 </div>
 
 ```mermaid
-graph LR
+flowchart TB
+    %% Núcleo e Espinha
+    X(( )):::root
+    M[[Processamento]]:::spine
+    K{{Análise}}:::spine
+    N((Núcleo Neural)):::core
 
-Intent[> Proof of Intent]
-Context[/Context Awareness/]
-Input[✦ Raw Input]
+    %% Camada Neural
+    N1[/Metadata de Nodes/]:::gray
+    N2[/Interfaces Experimentais/]:::blue
+    N3>Proof of Intent]:::pink
+    N4[[Gestão de MCP / ASI]]:::blue
+    N5((Mente Criativa Autônoma)):::gray
 
-Core((MELLØ Core Engine))
-Memory[/Adaptive Memory/]
-Interfaces[/Live Interfaces/]
-Mind(( NEØ Engine))
-Output[/Value Output/]
+    %% Espinha Vertical - Causalidade Clara
+    X ==> M
+    M ==> K
+    K ==> N
 
-Intent --> Core
-Context --> Core
-Input --> Core
-Core --> Interfaces --> Core
-Core --> Mind --> Output
-Mind --> Memory --> Core
+    %% Expansão Neural - Influência Cognitiva
+    N -.-> N1
+    N -.-> N2
+    N -.-> N3
+    N -.-> N4
+    N -.-> N5
+
+    %% Simbiose entre Módulos
+    N1 <-.-> N4
+    N2 <-.-> N5
+    N3 o--o N4
+
+    %% Classes
+    classDef root fill:#0a0a0a,stroke:#38bdf8,stroke-width:4px,color:#fff
+    classDef spine fill:#1a1a1a,stroke:#60a5fa,stroke-width:3px,color:#e5e7eb
+    classDef core fill:#0f172a,stroke:#38bdf8,stroke-width:5px,color:#fff,stroke-dasharray:5
+    classDef gray fill:#18181b,stroke:#71717a,stroke-width:2px,color:#a1a1aa
+    classDef blue fill:#0c4a6e,stroke:#38bdf8,stroke-width:2px,color:#bae6fd
+    classDef pink fill:#500724,stroke:#ec4899,stroke-width:2px,color:#fbcfe8
+
+    %% Estilo de Links
+    linkStyle 0,1,2 stroke:#38bdf8,stroke-width:3px
+    linkStyle 3,4,5,6,7 stroke:#60a5fa,stroke-width:1px,stroke-dasharray:3
+    linkStyle 8,9,10 stroke:#a855f7,stroke-width:1.5px
 ````
 
 <div align="center">
