@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" color:#0ce700>
     
 ```bash
 # Verde neon (cyberpunk style)
@@ -97,9 +97,9 @@ flowchart TB
 
 ![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-0820fc?style=for-the-badge)
 ![DevOps & Automation](https://img.shields.io/badge/DevOps%20%26%20Automation-0820fc?style=for-the-badge)
-![AI Systems](https://img.shields.io/badge/AI%20Systems-1b64f1?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-0820fc?style=for-the-badge)
 ![Blockchain Infrastructure](https://img.shields.io/badge/Blockchain%20Infrastructure-0820fc?style=for-the-badge\&logo=ethereum\&logoColor=white)
-![Web3 Infrastructure](https://img.shields.io/badge/Web3%20Infrastructure-0a19a2?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Web3 Infrastructure](https://img.shields.io/badge/Web3%20Infrastructure-0820fc?style=for-the-badge\&logo=ethereum\&logoColor=white)
 
 </div>
 
@@ -107,10 +107,10 @@ flowchart TB
     
 ## Cognitive Profile
 
-> **INTJ-A** — Architect / Strategist<br/>
-> **Enneagram Type 5** — Investigator<br/>
-> **Archetype:** Magus — architect of the invisible<br/>
-> **Dominant temperament:** Choleric–Rational
+ **INTJ-A** — Architect / Strategist<br/>
+ **Enneagram Type 5** — Investigator<br/>
+ **Archetype:** Magus — architect of the invisible<br/>
+ **Dominant temperament:** Choleric–Rational
 
 </div>
 
@@ -121,13 +121,13 @@ flowchart TB
 
 <div align="center">
   <a href="https://x.com/node_mello">
-    <img src="https://img.shields.io/badge/-@node_mello-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-@node_mello-ff008e?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/neoprotocol.eth/">
-    <img src="https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-@neoprotocol.eth-ff008e?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://etherscan.io/">
-    <img src="https://img.shields.io/badge/-neomello.eth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/-neomello.eth-ff008e?style=flat-square&logo=ethereum&logoColor=white" />
   </a>
 </div>
 
