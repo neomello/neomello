@@ -1,32 +1,56 @@
-<div align="center" color:#0ce700>
-    
-```bash
-# Verde neon (cyberpunk style)
-echo -e "\e[38;5;46m \████▀▀▀████\e[0m"
-echo -e "\e[38;5;46m ██   Ø /Ø  ██\e[0m"
-echo -e "\e[38;5;46m██           ██\e[0m"
-echo -e "\e[38;5;46m██   ───    ██\e[0m"
-echo -e "\e[38;5;46m  ██████████\e[0m"
-echo -e "\e[36mNEØ PROTOCOL // NODE [MELLØ]\e[0m"
-"Architecting the invisible infrastructure of tomorrow's digital ecosystems."
+<div align="center">
+
 ```
+███╗   ██╗███████╗ ██████╗     ███╗   ███╗███████╗██╗     ██╗      ██████╗
+████╗  ██║██╔════╝██╔═══██╗    ████╗ ████║██╔════╝██║     ██║     ██╔═══██╗
+██╔██╗ ██║█████╗  ██║   ██║    ██╔████╔██║█████╗  ██║     ██║     ██║   ██║
+██║╚██╗██║██╔══╝  ██║   ██║    ██║╚██╔╝██║██╔══╝  ██║     ██║     ██║   ██║
+██║ ╚████║███████╗╚██████╔╝    ██║ ╚═╝ ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═══╝╚══════╝ ╚═════╝     ╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+```
+
+**Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
+
+[![X](https://img.shields.io/badge/-@node_mello-000?style=flat-square&logo=x&logoColor=white)](https://x.com/node_mello)
+[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
+[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0820fc?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
+[![ENS](https://img.shields.io/badge/-neomello.eth-6f3ff5?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
+[![Site](https://img.shields.io/badge/-neoprotocol.space-0ce700?style=flat-square&logo=googlechrome&logoColor=black)](https://neoprotocol.space)
+
+</div>
+
+---
+
 <div align="center">
 
-# NEØ MELLØ  
-Digital systems architecture · DevOps & automation · Marketing as infrastructure · AI & Blockchain
+## Ecosystems
 
 </div>
 
 <div align="center">
 
-## Operational Scope · How I Work
+| Org | Focus | Status |
+|-----|-------|--------|
+| [**NΞØ Protocol**](https://github.com/NEO-PROTOCOL) | Identity, reputation & node onboarding on-chain | 🟢 Active |
+| [**NEO Smart Factory**](https://github.com/neo-smart-factory) | Smart contract infrastructure · NSF Token · FlowPay | 🟢 Active |
+| [**NEO FlowOFF**](https://github.com/NEO-FlowOFF) | Token, PWA & content automation layer | 🟢 Active |
+| [**FlowPay Core**](https://github.com/FlowPay-Core) | PIX-native payment rails · Web3 bridge | 🟢 Active |
+| [**FluxxDAO**](https://github.com/FluxxDAO) | DAO governance & liquidity coordination | 🔵 Building |
+
+</div>
+
+---
+
+<div align="center">
+
+## Operational Scope
 
 </div>
 
 <div align="center">
 
-| **Operational Scope** | **How I Work** |
-|-----------------------|----------------|
+| **What I Build** | **How I Think** |
+|------------------|-----------------|
 | Production-grade digital systems architecture | Systems before features |
 | Coordination of multidisciplinary teams (engineering, product, growth) | Documentation as infrastructure |
 | Infrastructure for decentralized ecosystems | Small teams, high leverage |
@@ -35,45 +59,41 @@ Digital systems architecture · DevOps & automation · Marketing as infrastructu
 
 </div>
 
+---
+
 <div align="center">
 
-# Cognitive Architecture
+## Cognitive Architecture
 
 </div>
 
 ```mermaid
 flowchart TB
-    %% Núcleo e Espinha
     X(( )):::root
     M[[Processamento]]:::spine
     K{{Análise}}:::spine
     N((Núcleo Neural)):::core
 
-    %% Camada Neural
     N1[/Metadata de Nodes/]:::gray
     N2[/Interfaces Experimentais/]:::blue
     N3>Proof of Intent]:::pink
     N4[[Gestão de MCP / ASI]]:::blue
     N5((Mente Criativa Autônoma)):::gray
 
-    %% Espinha Vertical - Causalidade Clara
     X ==> M
     M ==> K
     K ==> N
 
-    %% Expansão Neural - Influência Cognitiva
     N -.-> N1
     N -.-> N2
     N -.-> N3
     N -.-> N4
     N -.-> N5
 
-    %% Simbiose entre Módulos
     N1 <-.-> N4
     N2 <-.-> N5
     N3 o--o N4
 
-    %% Classes
     classDef root fill:#0a0a0a,stroke:#38bdf8,stroke-width:4px,color:#fff
     classDef spine fill:#1a1a1a,stroke:#60a5fa,stroke-width:3px,color:#e5e7eb
     classDef core fill:#0f172a,stroke:#38bdf8,stroke-width:5px,color:#fff,stroke-dasharray:5
@@ -81,57 +101,52 @@ flowchart TB
     classDef blue fill:#0c4a6e,stroke:#38bdf8,stroke-width:2px,color:#bae6fd
     classDef pink fill:#500724,stroke:#ec4899,stroke-width:2px,color:#fbcfe8
 
-    %% Estilo de Links
     linkStyle 0,1,2 stroke:#38bdf8,stroke-width:3px
     linkStyle 3,4,5,6,7 stroke:#60a5fa,stroke-width:1px,stroke-dasharray:3
     linkStyle 8,9,10 stroke:#a855f7,stroke-width:1.5px
-````
+```
+
+---
 
 <div align="center">
 
-## Ecosystems & Technologies
+## Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
+---
+
 <div align="center">
 
-![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-0820fc?style=for-the-badge)
-![DevOps & Automation](https://img.shields.io/badge/DevOps%20%26%20Automation-0820fc?style=for-the-badge)
-![AI Systems](https://img.shields.io/badge/AI%20Systems-0820fc?style=for-the-badge)
-![Blockchain Infrastructure](https://img.shields.io/badge/Blockchain%20Infrastructure-0820fc?style=for-the-badge\&logo=ethereum\&logoColor=white)
-![Web3 Infrastructure](https://img.shields.io/badge/Web3%20Infrastructure-0820fc?style=for-the-badge\&logo=ethereum\&logoColor=white)
+## Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomello&show_icons=true&theme=dark&bg_color=0d1117&border_color=38bdf8&icon_color=38bdf8&title_color=38bdf8&text_color=e5e7eb&hide_border=false&count_private=true)](https://github.com/neomello)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neomello&layout=compact&theme=dark&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=e5e7eb&hide_border=false)](https://github.com/neomello)
 
 </div>
 
+---
+
 <div align="center">
-    
+
 ## Cognitive Profile
 
- **INTJ-A** — Architect / Strategist<br/>
- **Enneagram Type 5** — Investigator<br/>
- **Archetype:** Magus — architect of the invisible<br/>
- **Dominant temperament:** Choleric–Rational
+**INTJ-A** — Architect / Strategist &nbsp;·&nbsp; **Enneagram 5** — Investigator
+**Archetype:** Magus — architect of the invisible
+**Dominant temperament:** Choleric–Rational
 
-</div>
+---
 
-## Contact
-[neo@neoprotocol.space](mailto:neo@neoprotocol.space)
+*"Expand until silence becomes structure."*
 
-</div>
-
-<div align="center">
-  <a href="https://x.com/node_mello">
-    <img src="https://img.shields.io/badge/-@node_mello-ff008e?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/neoprotocol.eth/">
-    <img src="https://img.shields.io/badge/-@neoprotocol.eth-ff008e?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://etherscan.io/">
-    <img src="https://img.shields.io/badge/-neomello.eth-ff008e?style=flat-square&logo=ethereum&logoColor=white" />
-  </a>
-</div>
-
-
-<div align="center">
-  <i>"Expand until silence becomes structure."</i>
 </div>
