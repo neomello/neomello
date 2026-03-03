@@ -1,32 +1,9 @@
 < div>
+
 [![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
-</div>
-
-**Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
-
-[![X](https://img.shields.io/badge/-@node_mello-000?style=flat-square&logo=x&logoColor=white)](https://x.com/node_mello)
-[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
-[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0820fc?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
-[![ENS](https://img.shields.io/badge/-neomello.eth-6f3ff5?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
-[![Site](https://img.shields.io/badge/-neoprotocol.space-0ce700?style=flat-square&logo=googlechrome&logoColor=black)](https://neoprotocol.space)
 
 </div>
 
----
-```text
-╔════════════════════════════════════════════════════════════════════════════════╗
-║     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒      /// OPERATIONAL_SCOPE \\\   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒       ║
-╠═════════════════════════════════════════════════╦══════════════════════════════╣
-║  [>] EXECUTABLE: WHAT_I_BUILD                   ║  [~] KERNEL: HOW_I_THINK     ║
-╟─────────────────────────────────────────────────╫──────────────────────────────╢
-║  > Production-grade digital systems arch.       ║  * Systems before features   ║
-║  > Coordination of multidisciplinary teams      ║  * Docs as infrastructure    ║
-║  > Infrastructure for decentralized ecosystems  ║  * Small teams, high leverage║
-║  > Strategic automation & cognitive agents      ║  * Autonomy > micromanaging  ║
-║  > Technical & economic platform governance     ║  * Long-term value > metrics ║
-╚═════════════════════════════════════════════════╩══════════════════════════════╝
-
-```
 
 ```text
   ___ ___ ___  _____   _____ _____ ___ __  __ ___ 
@@ -52,12 +29,6 @@
 ---
 
 <div align="center">
-
-```text
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-░░░░░░░░░░░░░░░░░░░░░░░░░ COGNITIVE ARCHITECTURE ░░░░░░░░░░░░░░░░░░░░░░░
-████████████████████████████████████████████████████████████████████████
-```
 
 </div>
 
@@ -102,21 +73,16 @@ flowchart TB
 
 ---
 
-<div align="center">
 
-## Stack
+**Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![X](https://img.shields.io/badge/-@node_mello-000?style=flat-square&logo=x&logoColor=white)](https://x.com/node_mello)
+[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
+[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0820fc?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
+[![ENS](https://img.shields.io/badge/-neomello.eth-6f3ff5?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
+[![Site](https://img.shields.io/badge/-neoprotocol.space-0ce700?style=flat-square&logo=googlechrome&logoColor=black)](https://neoprotocol.space)
 
 </div>
-
 ---
 
 <div align="center">
@@ -130,18 +96,8 @@ flowchart TB
 </div>
 
 ---
-
-
-
-
-▓▓▓ NΞØ MELLØ
-────────────────────────────────────────
-Core Architect · NΞØ Protocol
-neo@neoprotocol.space
-
-"Code is law. Expand until
-silence becomes structure."
-────────────────────────────────────────
+<div align="center">
+  
 ```
  █████ █         
 ██╔═══██╗       
