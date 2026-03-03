@@ -1,13 +1,6 @@
-<div align="center">
-
-```
-███╗   ██╗███████╗ ██████╗     ███╗   ███╗███████╗██╗     ██╗      ██████╗
-████╗  ██║██╔════╝██╔═══██╗    ████╗ ████║██╔════╝██║     ██║     ██╔═══██╗
-██╔██╗ ██║█████╗  ██║   ██║    ██╔████╔██║█████╗  ██║     ██║     ██║   ██║
-██║╚██╗██║██╔══╝  ██║   ██║    ██║╚██╔╝██║██╔══╝  ██║     ██║     ██║   ██║
-██║ ╚████║███████╗╚██████╔╝    ██║ ╚═╝ ██║███████╗███████╗███████╗╚██████╔╝
-╚═╝  ╚═══╝╚══════╝ ╚═════╝     ╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
-```
+< div>
+[![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
+</div>
 
 **Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
 
@@ -20,50 +13,51 @@
 </div>
 
 ---
+```text
+╔════════════════════════════════════════════════════════════════════════════════╗
+║     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒      /// OPERATIONAL_SCOPE \\\   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒       ║
+╠═════════════════════════════════════════════════╦══════════════════════════════╣
+║  [>] EXECUTABLE: WHAT_I_BUILD                   ║  [~] KERNEL: HOW_I_THINK     ║
+╟─────────────────────────────────────────────────╫──────────────────────────────╢
+║  > Production-grade digital systems arch.       ║  * Systems before features   ║
+║  > Coordination of multidisciplinary teams      ║  * Docs as infrastructure    ║
+║  > Infrastructure for decentralized ecosystems  ║  * Small teams, high leverage║
+║  > Strategic automation & cognitive agents      ║  * Autonomy > micromanaging  ║
+║  > Technical & economic platform governance     ║  * Long-term value > metrics ║
+╚═════════════════════════════════════════════════╩══════════════════════════════╝
 
-<div align="center">
+```
 
-## Ecosystems
+```text
+  ___ ___ ___  _____   _____ _____ ___ __  __ ___ 
+ | __/ __/ _ \/ __\ \ / / __|_   _| __|  \/  / __|
+ | _| (_| (_) \__ \\ V /\__ \ | | | _|| |\/| \__ \
+ |___\___\___/|___/ |_| |___/ |_| |___|_|  |_|___/
+
+```
+
+
+| `// ORG_NODE` | `// CORE_ARCHITECTURE` | `// SYS_STATUS` |
+| --- | --- | --- |
+| `[+]` **[NΞØ Protocol](https://github.com/NEO-PROTOCOL)** | Identity & Node Onboarding | `[██████████] 100%` |
+| `[+]` **[NEO Smart Factory](https://github.com/neo-smart-factory)** | Smart Contracts & NSF Token | `[█████████░]  90%` |
+| `[+]` **[NEO FlowOFF](https://github.com/NEO-FlowOFF)** | Automation & PWA Layer | `[████████░░]  80%` |
+| `[+]` **[FlowPay Core](https://github.com/FlowPay-Core)** | PIX-Native ⬌ Web3 Bridge | `[█████████░]  90%` |
+| `[-]` **[FluxxDAO](https://github.com/FluxxDAO)** | Governance & Liquidity | `[███░░░░░░░]  30%` |
 
 </div>
 
-<div align="center">
 
-| Org | Focus | Status |
-|-----|-------|--------|
-| [**NΞØ Protocol**](https://github.com/NEO-PROTOCOL) | Identity, reputation & node onboarding on-chain | 🟢 Active |
-| [**NEO Smart Factory**](https://github.com/neo-smart-factory) | Smart contract infrastructure · NSF Token · FlowPay | 🟢 Active |
-| [**NEO FlowOFF**](https://github.com/NEO-FlowOFF) | Token, PWA & content automation layer | 🟢 Active |
-| [**FlowPay Core**](https://github.com/FlowPay-Core) | PIX-native payment rails · Web3 bridge | 🟢 Active |
-| [**FluxxDAO**](https://github.com/FluxxDAO) | DAO governance & liquidity coordination | 🔵 Building |
-
-</div>
 
 ---
 
 <div align="center">
 
-## Operational Scope
-
-</div>
-
-<div align="center">
-
-| **What I Build** | **How I Think** |
-|------------------|-----------------|
-| Production-grade digital systems architecture | Systems before features |
-| Coordination of multidisciplinary teams (engineering, product, growth) | Documentation as infrastructure |
-| Infrastructure for decentralized ecosystems | Small teams, high leverage |
-| Strategic automation and cognitive agents | Autonomy over micromanagement |
-| Technical and economic governance of platforms | Long-term value over short-term metrics |
-
-</div>
-
----
-
-<div align="center">
-
-## Cognitive Architecture
+```text
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+░░░░░░░░░░░░░░░░░░░░░░░░░ COGNITIVE ARCHITECTURE ░░░░░░░░░░░░░░░░░░░░░░░
+████████████████████████████████████████████████████████████████████████
+```
 
 </div>
 
@@ -131,7 +125,7 @@ flowchart TB
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=neomello&theme=dark&background=0d1117&border=0047ab&stroke=38bdf8&ring=38bdf8&fire=0ce700&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=71717a)](https://github.com/neomello)
 
-[![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
+
 
 </div>
 
