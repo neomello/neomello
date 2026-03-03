@@ -1,4 +1,8 @@
-► EACH MIND A NODE. EACH NODE, A UNIVERSE. ◄
+<div align="center">
+  
+  ► EACH MIND A NODE. EACH NODE, A UNIVERSE. ◄
+
+</div>
 
 <div align="center">
   
@@ -9,6 +13,9 @@
  |___\___\___/|___/ |_| |___/ |_| |___|_|  |_|___/
 
 ```
+</div>
+
+<div align="center">
 
 | `// ORG_NODE` | `// CORE_ARCHITECTURE` | `// SYS_STATUS` |
 | --- | --- | --- |
