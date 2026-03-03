@@ -1,8 +1,10 @@
+
 <div align="center">
   
   ► EACH MIND A NODE. EACH NODE, A UNIVERSE. ◄
 
 </div>
+
 
 <div align="center">
   
@@ -108,5 +110,13 @@ flowchart TB
 [![ENS](https://img.shields.io/badge/-neomello.eth-000?style=flat-square&logo=x&logoColor=0061eb)](https://etherscan.io/enslookup-search?search=neomello.eth)
 [![Site](https://img.shields.io/badge/-neoprotocol.space-000?style=flat-square&logo=x&logoColor=0061eb)](https://neoprotocol.space)
 
+</div>
+
+<br>
+<br>
+
+<div align="center">
+↳ \ © NΞØ PROTOCOL <br>
+↳ neoprotocol.space
 </div>
 
