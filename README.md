@@ -129,24 +129,33 @@ flowchart TB
 
 ## Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=neomello&theme=dark&background=0d1117&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=0ce700&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=71717a)](https://github.com/neomello)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neomello&theme=dark&background=0d1117&border=0047ab&stroke=38bdf8&ring=38bdf8&fire=0ce700&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=71717a)](https://github.com/neomello)
 
-[![Contribution Graph](https://ghchart.rshah.org/38bdf8/neomello)](https://github.com/neomello)
+[![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
 
 </div>
 
 ---
 
-<div align="center">
 
-## Cognitive Profile
 
-**INTJ-A** — Architect / Strategist &nbsp;·&nbsp; **Enneagram 5** — Investigator
-**Archetype:** Magus — architect of the invisible
-**Dominant temperament:** Choleric–Rational
 
----
+▓▓▓ NΞØ MELLØ
+────────────────────────────────────────
+Core Architect · NΞØ Protocol
+neo@neoprotocol.space
 
-*"Expand until silence becomes structure."*
+"Code is law. Expand until
+silence becomes structure."
+────────────────────────────────────────
+```
+ █████ █         
+██╔═══██╗       
+██║ █ ██║  
+██ █  ██║      
+╚██████╔╝   
+█ ╚═══╝     
+
+```
 
 </div>
