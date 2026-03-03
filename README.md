@@ -20,11 +20,11 @@
 
 | `// ORG_NODE` | `// CORE_ARCHITECTURE` | `// SYS_STATUS` |
 | --- | --- | --- |
-| `[+]` **[NΞØ Protocol](https://github.com/NEO-PROTOCOL)** | Identity & Node Onboarding | `[██████████] 100%` |
+| `[+]` **[NΞØ Protocol](https://github.com/NEO-PROTOCOL)** | APIs - Identity & Node Conect | `[██████████] 100%` |
 | `[+]` **[NEO Smart Factory](https://github.com/neo-smart-factory)** | Smart Contracts & NSF Token | `[█████████░]  90%` |
-| `[+]` **[NEO FlowOFF](https://github.com/NEO-FlowOFF)** | Automation & PWA Layer | `[████████░░]  80%` |
-| `[+]` **[FlowPay Core](https://github.com/FlowPay-Core)** | PIX-Native ⬌ Web3 Bridge | `[█████████░]  90%` |
-| `[-]` **[FluxxDAO](https://github.com/FluxxDAO)** | Governance & Liquidity | `[███░░░░░░░]  30%` |
+| `[+]` **[NEO FlowOFF](https://github.com/NEO-FlowOFF)** | Agents - WebApp - Game & Dashboards | `[████████░░]  80%` |
+| `[+]` **[FlowPay Core](https://github.com/FlowPay-Core)** | PIX-BRA ⬌ Web3 Cripto Bridge | `[█████████░]  90%` |
+| `[-]` **[FluxxDAO](https://github.com/FluxxDAO)** | Governance & DAO | `[███░░░░░░░]  30%` |
 
 </div>
 
@@ -43,11 +43,11 @@ flowchart TB
     K{{Análise}}:::spine
     N((Núcleo Neural)):::core
 
-    N1[/Metadata de Nodes/]:::gray
-    N2[/Interfaces Experimentais/]:::blue
-    N3>Proof of Intent]:::pink
-    N4[[Gestão de MCP / ASI]]:::blue
-    N5((Mente Criativa Autônoma)):::gray
+    N1[/NODE SPACE/]:::gray
+    N2[/MULTICHAINS/]:::blue
+    N3>PoI - proof of intent]:::blue
+    N4[[ MCP / MULTIAGENTS]]:::blue
+    N5((AUTONOMOUS CRIATIVE MIND)):::blue
 
     X ==> M
     M ==> K
@@ -63,12 +63,12 @@ flowchart TB
     N2 <-.-> N5
     N3 o--o N4
 
-    classDef root fill:#0a0a0a,stroke:#38bdf8,stroke-width:4px,color:#fff
-    classDef spine fill:#1a1a1a,stroke:#60a5fa,stroke-width:3px,color:#e5e7eb
-    classDef core fill:#0f172a,stroke:#38bdf8,stroke-width:5px,color:#fff,stroke-dasharray:5
-    classDef gray fill:#18181b,stroke:#71717a,stroke-width:2px,color:#a1a1aa
-    classDef blue fill:#0c4a6e,stroke:#38bdf8,stroke-width:2px,color:#bae6fd
-    classDef pink fill:#500724,stroke:#ec4899,stroke-width:2px,color:#fbcfe8
+    classDef root fill:#0a0a0a,stroke:#0028c1,stroke-width:4px,color:#fff
+    classDef spine fill:#1a1a1a,stroke:#0028c1,stroke-width:3px,color:#e5e7eb
+    classDef core fill:#0f172a,stroke:#0028c1,stroke-width:5px,color:#fff,stroke-dasharray:5
+    classDef gray fill:#18181b,stroke:#0028c1,stroke-width:2px,color:#a1a1aa
+    classDef blue fill:#0c4a6e,stroke:#0028c1,stroke-width:2px,color:#bae6fd
+    classDef pink fill:#0028c1,stroke:#0028c1,stroke-width:2px,color:#fbcfe8
 
     linkStyle 0,1,2 stroke:#38bdf8,stroke-width:3px
     linkStyle 3,4,5,6,7 stroke:#60a5fa,stroke-width:1px,stroke-dasharray:3
@@ -101,9 +101,9 @@ flowchart TB
 **Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
 
 [![X](https://img.shields.io/badge/-@node_mello-000?style=flat-square&logo=x&logoColor=0061eb)](https://x.com/node_mello)
-[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-0053c7?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
-[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0048ad?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
-[![ENS](https://img.shields.io/badge/-neomello.eth-004099?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
+[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-000?style=flat-square&logo=x&logoColor=0061eb)](https://www.instagram.com/neoprotocol.eth/)
+[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-000?style=flat-square&logo=x&logoColor=0061eb)](mailto:neo@neoprotocol.space)
+[![ENS](https://img.shields.io/badge/-neomello.eth-000?style=flat-square&logo=x&logoColor=0061eb)](https://etherscan.io/enslookup-search?search=neomello.eth)
 [![Site](https://img.shields.io/badge/-neoprotocol.space-000?style=flat-square&logo=x&logoColor=0061eb)](https://neoprotocol.space)
 
 </div>
