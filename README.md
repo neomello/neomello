@@ -88,11 +88,13 @@ flowchart TB
 </div>
 
 ---
-<div align="center">
-  
-[![Contribution Graph](https://ghchart.xqsit94.in/dark:default/neomello")](https://github.com/neomello)
 
+<div align="center">
+  <a href="https://github.com/neomello">
+    <img src="https://ghchart.xqsit94.in/dark:blue/neomello" alt="GitHub Contribution Graph" />
+  </a>
 </div>
+
 
 ---
 
