@@ -1,8 +1,4 @@
-<div align="center">
-
-[![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
-
-</div>
+► EACH MIND A NODE. EACH NODE, A UNIVERSE. ◄
 
 <div align="center">
   
@@ -71,19 +67,7 @@ flowchart TB
     linkStyle 8,9,10 stroke:#a855f7,stroke-width:1.5px
 ```
 
----
 
-
-**Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
-
-[![X](https://img.shields.io/badge/-@node_mello-000?style=flat-square&logo=x&logoColor=white)](https://x.com/node_mello)
-[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
-[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0820fc?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
-[![ENS](https://img.shields.io/badge/-neomello.eth-6f3ff5?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
-[![Site](https://img.shields.io/badge/-neoprotocol.space-0ce700?style=flat-square&logo=googlechrome&logoColor=black)](https://neoprotocol.space)
-
-</div>
----
 
 <div align="center">
 
@@ -97,15 +81,22 @@ flowchart TB
 
 ---
 <div align="center">
-  
-```
- █████ █         
-██╔═══██╗       
-██║ █ ██║  
-██ █  ██║      
-╚██████╔╝   
-█ ╚═══╝     
 
-```
+[![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
 
 </div>
+
+---
+
+<div align="center">
+  
+**Digital systems architecture · AI & Blockchain · Decentralized ecosystems**
+
+[![X](https://img.shields.io/badge/-@node_mello-000?style=flat-square&logo=x&logoColor=white)](https://x.com/node_mello)
+[![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
+[![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0820fc?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
+[![ENS](https://img.shields.io/badge/-neomello.eth-6f3ff5?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
+[![Site](https://img.shields.io/badge/-neoprotocol.space-0ce700?style=flat-square&logo=googlechrome&logoColor=black)](https://neoprotocol.space)
+
+</div>
+
