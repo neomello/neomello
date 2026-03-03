@@ -1,18 +1,18 @@
-< div>
+<div align="center">
 
 [![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
 
 </div>
 
-
-```text
+<div align="center">
+  
+```text 
   ___ ___ ___  _____   _____ _____ ___ __  __ ___ 
  | __/ __/ _ \/ __\ \ / / __|_   _| __|  \/  / __|
  | _| (_| (_) \__ \\ V /\__ \ | | | _|| |\/| \__ \
  |___\___\___/|___/ |_| |___/ |_| |___|_|  |_|___/
 
 ```
-
 
 | `// ORG_NODE` | `// CORE_ARCHITECTURE` | `// SYS_STATUS` |
 | --- | --- | --- |
