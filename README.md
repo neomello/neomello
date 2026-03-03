@@ -89,8 +89,8 @@ flowchart TB
 
 ---
 <div align="center">
-
-[![Contribution Graph](https://ghchart.rshah.org/0047ab/neomello)](https://github.com/neomello)
+  
+[![Contribution Graph](https://ghchart.xqsit94.in/dark:default/neomello")](https://github.com/neomello)
 
 </div>
 
