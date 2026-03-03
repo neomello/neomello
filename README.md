@@ -13,6 +13,7 @@
  |___\___\___/|___/ |_| |___/ |_| |___|_|  |_|___/
 
 ```
+
 </div>
 
 <div align="center">
@@ -103,7 +104,7 @@ flowchart TB
 [![Instagram](https://img.shields.io/badge/-@neoprotocol.eth-0053c7?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neoprotocol.eth/)
 [![Email](https://img.shields.io/badge/-neo@neoprotocol.space-0048ad?style=flat-square&logo=gmail&logoColor=white)](mailto:neo@neoprotocol.space)
 [![ENS](https://img.shields.io/badge/-neomello.eth-004099?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=neomello.eth)
-[![Site](https://img.shields.io/badge/-neoprotocol.space-0035800ce700?style=flat-square&logo=googlechrome&logoColor=black)](https://neoprotocol.space)
+[![Site](https://img.shields.io/badge/-neoprotocol.space-000?style=flat-square&logo=x&logoColor=0061eb)](https://neoprotocol.space)
 
 </div>
 
