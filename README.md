@@ -129,9 +129,9 @@ flowchart TB
 
 ## Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neomello&show_icons=true&theme=dark&bg_color=0d1117&border_color=38bdf8&icon_color=38bdf8&title_color=38bdf8&text_color=e5e7eb&hide_border=false&count_private=true)](https://github.com/neomello)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neomello&theme=dark&background=0d1117&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=0ce700&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=71717a)](https://github.com/neomello)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neomello&layout=compact&theme=dark&bg_color=0d1117&border_color=38bdf8&title_color=38bdf8&text_color=e5e7eb&hide_border=false)](https://github.com/neomello)
+[![Contribution Graph](https://ghchart.rshah.org/38bdf8/neomello)](https://github.com/neomello)
 
 </div>
 
