@@ -1,7 +1,9 @@
 
 <div align="center">
   
-  ► EACH MIND A NODE. EACH NODE, A UNIVERSE. ◄
+  ► EACH MIND A NODE.
+  ► EACH NODE,
+  ► A UNIVERSE.
 
 </div>
 
@@ -25,7 +27,7 @@
 | `[+]` **[NΞØ Protocol](https://github.com/NEO-PROTOCOL)** | APIs - Identity & Node Conect | `[██████████] 100%` |
 | `[+]` **[NEO Smart Factory](https://github.com/neo-smart-factory)** | Smart Contracts & NSF Token | `[█████████░]  90%` |
 | `[+]` **[NEO FlowOFF](https://github.com/NEO-FlowOFF)** | Agents - WebApp - Game & Dashboards | `[████████░░]  80%` |
-| `[+]` **[FlowPay Core](https://github.com/FlowPay-Core)** | PIX-BRA ⬌ Web3 Cripto Bridge | `[█████████░]  90%` |
+| `[+]` **[FlowPay](https://github.com/FlowPay-Systems)** | PIX-BRA ⬌ Web3 Cripto Bridge | `[█████████░]  90%` |
 | `[-]` **[FluxxDAO](https://github.com/FluxxDAO)** | Governance & DAO | `[███░░░░░░░]  30%` |
 
 </div>
@@ -38,7 +40,7 @@
 
 </div>
 
-```mermaid
+```
 flowchart TB
     X(( )):::root
     M[[Processamento]]:::spine
@@ -75,9 +77,8 @@ flowchart TB
     linkStyle 0,1,2 stroke:#38bdf8,stroke-width:3px
     linkStyle 3,4,5,6,7 stroke:#60a5fa,stroke-width:1px,stroke-dasharray:3
     linkStyle 8,9,10 stroke:#a855f7,stroke-width:1.5px
+
 ```
-
-
 
 <div align="center">
 
