@@ -1,0 +1,35 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#f8fafc"/>
+
+  <g opacity="0.76">
+    <line x1="735" y1="75" x2="825" y2="118" stroke="#0284c7" stroke-opacity="0.32"/>
+    <line x1="825" y1="118" x2="935" y2="90" stroke="#0284c7" stroke-opacity="0.28"/>
+    <line x1="825" y1="118" x2="955" y2="168" stroke="#0284c7" stroke-opacity="0.28"/>
+    <line x1="735" y1="75" x2="670" y2="158" stroke="#0284c7" stroke-opacity="0.22"/>
+    <line x1="670" y1="158" x2="825" y2="118" stroke="#0284c7" stroke-opacity="0.22"/>
+    <line x1="955" y1="168" x2="1045" y2="128" stroke="#0284c7" stroke-opacity="0.2"/>
+  </g>
+
+  <circle cx="735" cy="75" r="5" fill="#0284c7"/>
+  <circle cx="825" cy="118" r="8" fill="#0284c7"/>
+  <circle cx="935" cy="90" r="4" fill="#64748b"/>
+  <circle cx="955" cy="168" r="5" fill="#64748b"/>
+  <circle cx="670" cy="158" r="4" fill="#64748b"/>
+  <circle cx="1045" cy="128" r="4" fill="#64748b"/>
+
+  <text x="80" y="112" fill="#020617" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="1">
+    NEØ Mello
+  </text>
+
+  <text x="82" y="151" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="17" letter-spacing="1.4">
+    DIGITAL SYSTEMS ARCHITECT · AI INFRASTRUCTURE · BLOCKCHAIN ECOSYSTEMS
+  </text>
+
+  <text x="82" y="192" fill="#0284c7" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="1">
+    agents · payments · data · automation · identity · protocols
+  </text>
+
+  <text x="82" y="226" fill="#64748b" font-family="Inter, Arial, sans-serif" font-size="13" letter-spacing="1">
+    each mind a node · each node a system · each system a living ecosystem
+  </text>
+</svg>
