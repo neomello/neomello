@@ -1,5 +1,6 @@
+# CRIATIVE MIND
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/neo-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/neo-banner-light.svg">
   <img alt="NEØ Protocol · Digital Systems Architecture" src="./assets/neo-banner-dark.svg" width="100%">
 </picture>
