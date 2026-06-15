@@ -1,0 +1,39 @@
+name: Update profile README
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/ecosystem.json"
+      - "scripts/generate-profile.mjs"
+      - ".github/workflows/update-profile.yml"
+  schedule:
+    - cron: "17 9 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile files
+        run: node scripts/generate-profile.mjs
+
+      - name: Commit generated files
+        run: |
+          git config user.name "neo-profile-bot"
+          git config user.email "actions@github.com"
+
+          git add README.md assets/neo-banner-dark.svg assets/neo-banner-light.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(profile): update generated README and banners"
+            git push
+          fi
